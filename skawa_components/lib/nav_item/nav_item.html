@@ -1,7 +1,8 @@
 <skawa-sidebar-item [icon]="icon"
                     class="content"
                     [textOnly]="textOnly"
-                    [ngClass]="{'hovering': hovering, 'icon-padding': icon == null}">
+                    [class.hovering]="hovering" 
+                    [class.icon-padding]="icon==null">
     <ng-content></ng-content>
 </skawa-sidebar-item>
 
