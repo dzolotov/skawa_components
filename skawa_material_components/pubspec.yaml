@@ -24,7 +24,7 @@ dependencies:
       ref: master
   quiver: ^2.0.3
   sass_builder: ^2.1.2
-  intl: ^0.15.7
+  intl: ^0.16.0
 
 dev_dependencies:
   test: ^1.6.2
