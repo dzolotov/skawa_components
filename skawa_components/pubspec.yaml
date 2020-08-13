@@ -15,7 +15,7 @@ environment:
 dependencies:
   angular: 
     git:
-      url: https://github.com/dart-lang/angular
+      url: https://github.com/dzolotov/angular
       path: angular/
   angular_components: ^0.14.0-alpha
   sass_builder: ^2.1.2
