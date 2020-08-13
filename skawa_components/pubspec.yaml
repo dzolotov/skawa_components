@@ -18,7 +18,11 @@ dependencies:
       url: https://github.com/dzolotov/angular
       path: angular
       ref: master
-  angular_components: ^0.14.0-alpha
+  angular_components: 
+    git:
+      url: https://github.com/dzolotov/angular_components
+      path: angular_components
+      ref: master
   sass_builder: ^2.1.2
   markdown: ^2.0.3
   js: ^0.6.1+1
