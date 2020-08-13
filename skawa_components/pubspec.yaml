@@ -26,7 +26,7 @@ dependencies:
   sass_builder: ^2.1.2
   markdown: ^2.0.3
   js: ^0.6.1+1
-  intl: ^0.15.7
+  intl: ^0.16.0
   diff_match_patch: ^0.3.0
 
 dev_dependencies:
