@@ -15,7 +15,7 @@ dependencies:
   angular: 
     git:
       url: https://github.com/dzolotov/angular
-      path: angular/
+      path: angular
       ref: master
   angular_components: ^0.14.0-alpha
   quiver: ^2.0.3
