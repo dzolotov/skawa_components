@@ -1,6 +1,29 @@
-## 1.2.0
+## 1.3.3
 
-- added support fro the dart 2.4 and angular 6.0.0-alpha
+- patch version for 6.0.0-alpha
+
+## 1.3.2
+
+- CKEditor can be used with custom config map
+
+## 1.3.1
+
+- patch version for 6.0.0-alpha
+
+## 1.3.0
+
+- From this minor version, there will be a path version for the angular alpha version too
+- Performance update on SkawaListWrapperComponent for normal use cases
+
+## 1.2.2
+
+- SkawaForDirective onLoad ouput stream added
+- CodeMirrorModeWithLink static constants fixed
+
+## 1.2.1
+
+- added support for Dart 2.5
+- CodeMirrorComponent, DiffComponent and SkawaListWrapperComponent added
 
 ## 1.1.0
 

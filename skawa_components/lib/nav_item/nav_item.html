@@ -1,8 +1,7 @@
 <skawa-sidebar-item [icon]="icon"
                     class="content"
                     [textOnly]="textOnly"
-                    [class.hovering]="hovering" 
-                    [class.icon-padding]="icon==null">
+                    [ngClass]="ngClasses">
     <ng-content></ng-content>
 </skawa-sidebar-item>
 

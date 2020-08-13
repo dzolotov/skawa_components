@@ -5,8 +5,7 @@
      (render)="renderTarget.setLanguageDirection($event)"
      [attr.title]="!disabled ? 'Click to edit' : null"
      (click)="editMarkdown()"
-     [class.with-placeholder]='displayPlaceholder'
-     [class.disabled]='disabled'>
+     [ngClass]="ngClasses">
 </div>
 
 <textarea editorRenderSource
